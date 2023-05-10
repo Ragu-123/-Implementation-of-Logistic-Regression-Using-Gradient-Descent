@@ -133,16 +133,26 @@ np.mean(predict(res.x,x)==y)
 ```
 
 ## Output:
-![image](https://user-images.githubusercontent.com/113915622/234770941-a0f1a612-c58b-4d39-8b5a-161cea6d3376.png)
-
-![image](https://user-images.githubusercontent.com/113915622/234770961-f796840c-6264-4af7-8ca9-014823e087ad.png)
-![image](https://user-images.githubusercontent.com/113915622/234770984-f64a6482-6502-480f-aec9-e02a76653ad6.png)
-![image](https://user-images.githubusercontent.com/113915622/234771000-896d5379-cb1f-465a-b797-9758bcd35788.png)
-![image](https://user-images.githubusercontent.com/113915622/234771026-b8b09489-d48d-4e70-99bd-d570eecbe608.png)
-![image](https://user-images.githubusercontent.com/113915622/234771048-33dec3c4-75a8-4b9d-a57b-75c46ce278f7.png)
-![image](https://user-images.githubusercontent.com/113915622/234771071-ef1e7eff-4950-41a9-a3a8-8454168be7e9.png)
-![image](https://user-images.githubusercontent.com/113915622/234771091-b5762aa2-36ef-497a-9370-0f6b71a488e0.png)
-![image](https://user-images.githubusercontent.com/113915622/234771114-d6b0fc82-8d96-4caa-ab8c-08b56a062602.png)
+## Array Value of x:
+![image](https://github.com/Ragu-123/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113915622/8b201df2-8da4-42d0-a0d2-af87c38e262d)
+## Array Value of y:
+![image](https://github.com/Ragu-123/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113915622/c468e06d-b65e-4b39-aa2d-4a72ddd22d24)
+## Exam 1 - score graph:
+![image](https://github.com/Ragu-123/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113915622/25c900fb-4d40-46e5-a25e-15c73d31b662)
+## Sigmoid function graph:
+![image](https://github.com/Ragu-123/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113915622/1475a9b9-bbb0-401c-b50b-90b6ae88f225)
+## X_train_grad value:
+![image](https://github.com/Ragu-123/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113915622/6b3d3292-0273-44bf-ac5a-0439f7595dfe)
+## Y_train_grad value:
+![image](https://github.com/Ragu-123/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113915622/83f8a7be-603b-4b8d-8d42-b8a0822bfccc)
+## Print res.x:
+![image](https://github.com/Ragu-123/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113915622/4d67b4e5-118a-4d44-a998-14aa0f4b8d24)
+## Decision boundary - graph for exam score:
+![image](https://github.com/Ragu-123/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113915622/a93ea8b3-86df-4c5f-97e1-4faab5bf6d2c)
+## Proability value:
+![image](https://github.com/Ragu-123/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113915622/8790b00c-77c4-49e8-b313-684d92e9fcca)
+## Prediction value of mean:
+![image](https://github.com/Ragu-123/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113915622/898ccf3d-4c05-42c4-add6-6cf1c66946e6)
 
 
 
